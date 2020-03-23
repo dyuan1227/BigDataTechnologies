@@ -1,0 +1,1 @@
+	The time complexity for mergesort is O(nlogn). I imported the mergesort function from p1.py and use it to sort my two strings. When checking the corresponding letters from two strings, the algorithm is O(n). Therefore, O(nlogn) is still dominating the whole algorithm. As we all know, O(nlogn)is strictly better than O(n^2).

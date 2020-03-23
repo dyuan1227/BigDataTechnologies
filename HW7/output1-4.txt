@@ -1,0 +1,854 @@
+Composer|Max|Min|Average
+Blackmore/Gillan/Glover/Lord/Paice|1196094|1196094|1196094.0
+Jimmy Page/Led Zeppelin|1116734|1116734|1116734.0
+Gillan/Glover/Lord/Nix - Blackmore/Paice|913658|913658|913658.0
+John Bonham/John Paul Jones/Robert Plant/Willie Dixon|863895|863895|863895.0
+Blackmore/Coverdale|854700|854700|854700.0
+Arthur Crudup/Bernard Besman/Bukka White/Doc Pomus/John Bonham/John Lee Hooker/John Paul Jones/Mort Shuman/Robert Plant/Willie Dixon|825103|825103|825103.0
+Blackmore/Coverdale/Lord/Paice|763924|763924|763924.0
+Carlos Santana & C. Thompson|747755|747755|747755.0
+Chester Burnett/Jimmy Page/John Bonham/John Paul Jones/Robert Plant|711836|711836|711836.0
+|5286953|4884|711493.507157464
+Diamond/Shermann|671712|671712|671712.0
+E.Weiss|713534|628062|670798.0
+Whitfield-Strong|664894|664894|664894.0
+Astor Campbell, Delroy "Chris" Cooper, Donovan Jackson, Dorothy Fields, Earl Chinna Smith, Felix Howard, Gordon Williams, James Moody, Jimmy McHugh, Matt Rowe, Salaam Remi & Stefan Skarbek|663426|663426|663426.0
+Jim Beard & Jon Herington|659226|659226|659226.0
+W.Correa|638563|638563|638563.0
+John Paul Jones, Jimmy Page & Robert Plant|634435|634435|634435.0
+Coverdale/Lord/Paice|804101|453955|629028.0
+Gillan/Glover/Lord/Paice|618031|618031|618031.0
+Samuel Barber|596519|596519|596519.0
+M.Babatunde Olantunji|592953|592953|592953.0
+U2 & Van Dyke Parks|591986|591986|591986.0
+Amos Blakemore/Buddy Guy|589531|589531|589531.0
+James Hetfield, Lars Ulrich and Cliff Burton|588564|588564|588564.0
+Terry Bozzio, Steve Stevens, Tony Levin|880640|447582|575790.571428571
+Henryk Górecki|567494|567494|567494.0
+Hector Berlioz|561967|561967|561967.0
+Frédéric Chopin|560342|560342|560342.0
+Mike Dirnt/Tré Cool|558602|558602|558602.0
+Billie Joe Armstrong/Green Day|548336|548336|548336.0
+Jeff Ament/Mike McCready/Stone Gossard|546063|546063|546063.0
+Collins/Van Zandt|545750|545750|545750.0
+Nikolai Rimsky-Korsakov|545203|545203|545203.0
+G Harvey/R Hope-Taylor|528666|528666|528666.0
+Johann Strauss II|526696|526696|526696.0
+Slash/W. Axl Rose|522396|522396|522396.0
+Gustav Holst|522099|522099|522099.0
+Mutantes|518556|518556|518556.0
+Gregorio Allegri|501503|501503|501503.0
+Carlos Santana|882834|296437|499234.333333333
+Eddie Casillas/Roy Z|494393|494393|494393.0
+Pietro Antonio Locatelli|493573|493573|493573.0
+James Hetfield, Lars Ulrich & Kirk Hammett|585769|385828|485798.5
+Jimmy Page|1612329|126641|474888.333333333
+Eric Clapton, Robert Cray|472920|472920|472920.0
+Cave|472764|472764|472764.0
+J B Lenoir/Willie Dixon|619467|315951|467709.0
+Waters, Wright|461035|461035|461035.0
+James Hetfield & Lars Ulrich|446484|446484|446484.0
+J. Purdell, M. Inez, O. Osbourne, R. Castillo & Z. Wylde|444358|444358|444358.0
+Clapton/Gordon|430733|430733|430733.0
+Jimmy Page, Robert Plant, John Paul Jones, John Bonham, Memphis Minnie|427702|427702|427702.0
+K.Hammett|515239|330919|425921.0
+Mason, Waters, Wright, Gilmour|425195|425195|425195.0
+John Scofield, Robert Aries, Milton Chambers and Gary Grainger|423653|423653|423653.0
+Stuart Zender|422321|422321|422321.0
+Hetfield, Ulrich, Newsted|414380|414380|414380.0
+John Lennon, Paul McCartney|413910|413910|413910.0
+Bob Rock/James Hetfield/Kirk Hammett/Lars Ulrich|527986|314017|409732.454545455
+John Paul Jones/Robert Plant|749897|217547|409708.333333333
+James Hetfield, Lars Ulrich and Jason Newsted|409547|409547|409547.0
+Jean Sibelius|406000|406000|406000.0
+J.Hetfield/L.Ulrich|496718|312424|404571.0
+Richie Blackmore, Ian Gillian, Roger Glover, Jon Lord, Ian Paice|602880|243017|404046.0
+Holocaust|403435|403435|403435.0
+James Hetfield, Lars Ulrich & Jason Newsted|403382|403382|403382.0
+Duff McKagan/Slash/W. Axl Rose|461165|341054|401109.5
+Smith, Toby|616829|245263|399860.166666667
+Janick Gers/Steve Harris|578324|234605|398866.0
+A.Bouchard/J.Bouchard/S.Pearlman|397531|397531|397531.0
+Miles Davis|907520|168777|391146.869565217
+John Bonham/John Paul Jones|766354|179591|390569.166666667
+J. B. Lenoir/Willie Dixon|388179|388179|388179.0
+Erik Satie|385506|385506|385506.0
+J. Kay/Jay Kay|385697|384130|384913.5
+Bono/Clayton, Adam/Dylan, Bob/Mullen Jr., Larry/The Edge|384522|384522|384522.0
+John Bonham|508604|258925|383764.5
+Arnaldo Baptista - Rita Lee - Sérgio Dias|382981|382981|382981.0
+Steven Tyler, Joe Perry, Mark Hudson|381231|381231|381231.0
+Black Sabbath|380342|380342|380342.0
+Maxton Gig Beesley Jnr.|379167|379167|379167.0
+Jerry Lynn Williams|378984|378984|378984.0
+Richard Bull|396460|361012|378736.0
+KC Porter & JB Eckl|378618|378618|378618.0
+John Paul Jones|420493|336692|378592.5
+Ludwig van Beethoven|412000|339567|378291.0
+Neil Young|377652|377652|377652.0
+Blaze Bayley/David Murray/Steve Harris|377312|377312|377312.0
+Kurt Weill|376510|376510|376510.0
+Faithfull/Jagger/Richards|376215|376215|376215.0
+Deaffy & R.A. Smith-Diesel|375418|375418|375418.0
+Jimmy Page/John Bonham/John Paul Jones/Robert Plant/Willie Dixon|373394|373394|373394.0
+Bruce Dickinson/Janick Gers/Steve Harris|410070|312032|373346.8
+Richie Blackmore, Ian Gillian, Roger Glover|424829|321149|372989.0
+Jimmy Page, Robert Plant & John Paul Jones|410566|329639|371051.666666667
+James Hetfield and Lars Ulrich|395389|345547|370468.0
+Bolin/Hughes/Lord|370102|370102|370102.0
+Sylvester Stewart|368953|368953|368953.0
+Jon Herington|368875|368875|368875.0
+Harris|816509|231627|367863.285714286
+Julian Crampton|367647|367647|367647.0
+Moody|367255|367255|367255.0
+Edward Elgar|483133|250031|366582.0
+Seger|366524|366524|366524.0
+David Cook|366471|366471|366471.0
+Stone Gossard & Eddie Vedder|415712|317100|366406.0
+Karsh Kale|366085|366085|366085.0
+David Murray/Steve Harris|546115|250853|365019.571428571
+Robert Plant|657293|201247|364536.230769231
+D. DeLeo/Kretz/Weiland|505991|218723|362357.0
+Blackmore, Gillan, Glover, Lord, Paice|620460|210259|362250.857142857
+Coverdale|758648|202475|361769.4
+James Brown & Bobby Byrd|360411|360411|360411.0
+Adrian Vanderberg/David Coverdale|359497|359497|359497.0
+Blaze Bayley/Janick Gers/Steve Harris|399333|310230|357001.75
+ian paice/jon lord|356963|356963|356963.0
+Steven Tyler, Richie Supa|356519|356519|356519.0
+Metallica|534883|244532|356336.0
+Robert Plant & John Paul Jones|356284|356284|356284.0
+Fayyaz Virgi/Richard Bull|355395|355395|355395.0
+L. Hill|354899|354899|354899.0
+Santana|353488|353488|353488.0
+Ben Shepherd/Chris Cornell/Kim Thayil/Matt Cameron|352966|352966|352966.0
+Gule/Jorge 101/Lequinho/Luiz Piao|351320|351320|351320.0
+Bruce Dickinson/David Murray/Steve Harris|427023|228623|350353.75
+O. Osbourne, R. Daisley, R. Rhoads|485720|249208|349419.111111111
+Hetfield, Ulrich, Hammett|496065|245394|348686.5
+Carlos Santana & Dave Matthews|347820|347820|347820.0
+Adrian Smith/Steve Harris|508107|232777|347694.6
+C.Burton|347428|347428|347428.0
+Djavan - Gabriel, O Pensador|347297|347297|347297.0
+Jimmy Page/Robert Plant|625502|182491|347266.916666667
+John Scofield|346932|346932|346932.0
+Dadinho/Gilbreto Gomes/Gustavo/P.C. Portugal/R. Mocoto|344320|344320|344320.0
+Jerry Cantrell, Michael Starr, Layne Staley|344163|344163|344163.0
+Dave Krusen/Stone Gossard|343823|343823|343823.0
+Billy Cobham|582086|246151|343767.0
+Toby Smith|529684|257097|343599.285714286
+James Hetfield, Lars Ulrich, Kirk Hammett|497998|237296|343472.428571429
+Hetfield, Ulrich|457639|279353|343300.833333333
+Blackmore, Glover, Turner, Lord, Paice|393691|283977|342438.75
+Bossi/David Coverdale/Earl Slick|391549|293015|342282.0
+Dickinson|407823|242729|340792.666666667
+Adrian Smith; Bruce Dickinson|340767|340767|340767.0
+Edward Van Halen, Alex Van Halen, Michael Anthony,/Edward Van Halen, Alex Van Halen, Michael Anthony, David Lee Roth|366053|315376|340714.5
+Derrick McKenzie/Jay Kay/Toby Smith|340218|340218|340218.0
+Steve Harris|678008|105926|340214.075
+Bryan Adams/Nikki Sixx/Scott Humphrey|340114|340114|340114.0
+Guga/Marquinho Lessa/Tuninho Professor|339173|339173|339173.0
+Coverdale/Hughes/Lord/Paice|339173|339173|339173.0
+Douglas/Neves, Vicente Das/Silva, Gilmar L./Toninho Gentil/Wantuir|338834|338834|338834.0
+De Beauport/Jagger/Richards|337266|337266|337266.0
+Ritchie Blackmore, Ian Gillan, Roger Glover, Jon Lord, Ian Paice|500427|204721|337109.571428571
+Harris/Tatler|470256|213995|337083.75
+Bruce Dickinson|408607|284238|336857.333333333
+Chris Robinson/Rich Robinson|505521|218749|336616.333333333
+Bob Dylan|336457|336457|336457.0
+Arlindo Cruz/Carlos Sena/Elmo Caetano/Mauricao|334942|334942|334942.0
+Stevie Ray Vaughan|528692|140826|334759.0
+jon lord/roger glover|392437|276662|334549.5
+Full Force/James Brown|334236|334236|334236.0
+Apocalyptica|436453|221701|333925.875
+Karol Szymanowski|333669|333669|333669.0
+James Hetfield, Lars Ulrich and Kirk Hammett|464039|244375|333095.5
+Carlinhos Santana/Nelson Rufino|332826|332826|332826.0
+James Hetfield, Lars Ulrich, Dave Mustaine|433188|281573|332035.25
+James Hetfield, Lars Ulrich|588721|240065|331241.727272727
+Sykes|398210|250853|331232.0
+Kevin Robinson|330997|330997|330997.0
+Dito/Djalma Falcao/Ilha, Almir Da/Márcio André|330945|330945|330945.0
+Steven Tyler, Tom Hamilton|330736|330736|330736.0
+Eddie Vedder & Mike McCready|428643|233613|330666.333333333
+Stuard Zender/Toby Smith|329534|329534|329534.0
+R. Taha, Carlos Santana & T. Lindsay|329064|329064|329064.0
+Karsh Kale/Vishal Vaid|327122|327122|327122.0
+Caruso/Cleber/Deo/Osmar|327000|327000|327000.0
+Jay Kay|341629|313626|325772.75
+Jimmy Page/Jimmy Page & Robert Plant/Robert Plant|459180|223216|325622.25
+Geddy Lee And Alex Lifeson/Geddy Lee And Neil Peart/Rush|667428|133459|324906.714285714
+U2; Bono & Edge, The|324440|324440|324440.0
+Roy Z|509413|237531|323552.125
+Emerson Villani|322821|322821|322821.0
+Ian Gillan/Ian Paice/Jon Lord/Ritchie Blckmore/Roger Glover|442096|239830|322656.428571429
+Toby Smith/Wallis Buchanan|322455|322455|322455.0
+Steven Tyler, Joe Perry|321828|321828|321828.0
+Lô Borges, Márcio Borges, Fernando Brant|321828|321828|321828.0
+Patrick Claher/Richard Bull|321123|321123|321123.0
+Adrian Smith|344502|269557|321054.8
+Dickinson/Smith|320548|320548|320548.0
+Paul Stanley, Gene Simmons, Rus Ballard, Bob Ezrin|320444|320444|320444.0
+Jim Beard|321358|319373|320365.5
+Soundgarden|320365|320365|320365.0
+Rick Strauss|320078|320078|320078.0
+Flavio Bororo/Paulo Apparicio/Wagner Alves/Zeca Sereno|319608|319608|319608.0
+W. Axl Rose|563800|84532|319124.5
+Coverdale/Hughes|319111|319111|319111.0
+Smith/Dickinson|366550|229982|318780.666666667
+Bobby Byrd/James Brown/Ron Lenhoff|316551|316551|316551.0
+Edward Van Halen, Alex Van Halen, Michael Anthony,/Edward Van Halen, Alex Van Halen, Michael Anthony, Sammy Hagar|338991|291813|315402.0
+Frank Zappa|677694|144483|315107.285714286
+Van Halen|514612|86987|314766.2
+Leão, Rodrigo F./Lô Borges/Samuel Rosa|314723|314723|314723.0
+Jean Paul Maunick|377155|249756|313455.5
+Mick Jagger, Keith Richard|312450|312450|312450.0
+Ian Gillan, Roger Glover, Jon Lord, Steve Morse, Ian Paice|451840|249443|312435.0
+Jimmy Page/Robert Johnson/Robert Plant|312032|312032|312032.0
+Page, Jones|310774|310774|310774.0
+J.J. Johnson/R. Troup, L. Worth|309786|309786|309786.0
+Adrian Smith/Bruce Dickinson/Steve Harris|391105|275539|309681.0
+Steven Tyler, Desmond Child|307617|307617|307617.0
+Andrea Dulbecco|307385|307385|307385.0
+David Corrêa - Paulinho Carvalho - Carlos Sena - Bira do Ponto|307252|307252|307252.0
+Carlos Santos/Ciro/Claudio Russo/Zé Luiz|307252|307252|307252.0
+Jimmy Page, Robert Plant, John Bonham, John Paul Jones|307226|307226|307226.0
+D.Coverdal/G.Hughes/Glenn Hughes/I.Paice/Ian Paice/J.Lord/John Lord|306860|306860|306860.0
+Franz Joseph Haydn|306687|306687|306687.0
+AC/DC|369319|215196|306657.375
+Nando Reis/Samuel Rosa|306390|306390|306390.0
+Augusto/Craig Negoescu/Rocco Filho/Saara, Ze Carlos Da|305920|305920|305920.0
+Dave Murray; Steve Harris|305475|305475|305475.0
+Pearl Jam & Eddie Vedder|305293|305293|305293.0
+U2; Bono|418324|225697|304815.875
+David Coverdale/Earl Slick|344999|283585|304776.75
+Adrian Smith/Bruce Dickinson/Nicko McBrain|304509|304509|304509.0
+B. Daisley, O. Osbourne & R. Rhoads|312980|295960|304470.0
+Peter Ilyich Tchaikovsky|304226|304226|304226.0
+Ulrich|404323|227892|304162.0
+Jimmy Page, Robert Plant, Charlie Jones, Michael Lee|405028|230896|304086.666666667
+Roger Taylor|343745|262608|303176.5
+Bono, The Edge, Adam Clayton, and Larry Mullen|349178|266866|301047.666666667
+Freddy James, Jimmy hogarth & Larry Stock|300884|300884|300884.0
+Richie Blackmore, Ian Gillian, Roger Glover, Jon Lord|307905|293851|300878.0
+Wolfgang Amadeus Mozart|394482|174813|300506.0
+John Entwistle/Pete Townshend|513750|181890|300433.8
+Foo Fighters|469968|263653|300329.272727273
+Billy Duffy/Ian Astbury/Marti Frederiksen/Mick Jones|299781|299781|299781.0
+George Frideric Handel|582029|120000|299721.333333333
+Béla Bartók|299350|299350|299350.0
+Caetano Veloso - Djavan|299337|299337|299337.0
+Acyi Marques/Arlindo Bruz/Braço, Beto Sem/Zeca Pagodinho|299102|299102|299102.0
+Bizuca/Clóvis Pê/Gilson Bernini/Marelo D'Aguia|298318|298318|298318.0
+M. Itaal Shur & Rob Thomas|298161|298161|298161.0
+Jimmy Page, Robert Plant, John Paul Jones|444055|209528|297722.4
+Steven Tyler, Joe Perry, Desmond Child|316656|264855|297377.666666667
+Jimmy Page, Robert Plant, John Paul Jones, John Bonham|379141|220917|297129.25
+Blackmore, Glover, Turner|328385|227186|296881.0
+Izzy Stradlin'/W. Axl Rose|343875|261355|296489.333333333
+Steven Tyler, Joe Perry, Jack Blades, Tommy Shaw|295680|295680|295680.0
+Killing Joke|295418|295418|295418.0
+Henry Hirsch/Lenny Kravitz|295131|295131|295131.0
+Richie Blackmore, Ian Gillian, Roger Glover, Ian Paice|295053|295053|295053.0
+Renato Russo - Marisa Monte|295053|295053|295053.0
+Caetano Veloso - Waly Salomão|294765|294765|294765.0
+Alex North/Hy Zaret|294164|294164|294164.0
+Habib Koité|300605|285837|293221.0
+Gelder, Nick van|293093|293093|293093.0
+Eale-Eye Cherry, M. Simpson, J. King & M. Nishita|292832|292832|292832.0
+bert brecht/kurt weill/marc blitzstein|292075|292075|292075.0
+Blaze Bayley/Janick Gers|330292|253413|291852.5
+Carlos Santana & KC Porter|291160|291160|291160.0
+Adrian Smith/Bruce Dickinson|386821|206367|291103.833333333
+L. Kerslake, O. Osbourne, R. Daisley & R. Rhoads|290851|290851|290851.0
+Mike Bordin, Billy Gould, Mike Patton, Trey Spruance|395859|222902|290690.0
+R. DeLeo/Weiland|364800|96914|290655.166666667
+Bino/Da Gama/Lazao/Ras Bernardo|289750|289750|289750.0
+Astor Piazzolla|289388|289388|289388.0
+Ivan Kral/Patti Smith|287895|287895|287895.0
+Arnaldo Baptista - Rita Lee -  Sérgio Dias|287817|287817|287817.0
+Izzy Stradlin'|287477|287477|287477.0
+Bruce Dickinson/Janick Gers|350981|196911|287111.4
+Bi Ribeira/Herbert Vianna/João Barone|287059|287059|287059.0
+Carl Nielsen|286998|286998|286998.0
+Faith No More|493635|147226|286097.8
+Bono/Clayton, Adam/Mullen Jr., Larry/The Edge|390243|179226|285857.5
+Eric Clapton, Jim Gordon|285387|285387|285387.0
+E. Shrody|285178|285178|285178.0
+Jerry Cantrell, Layne Staley|387134|222955|285152.25
+Orestes Barbosa-Sílvio Caldas|284813|284813|284813.0
+roger glover|351033|240274|284581.0
+Wright, Waters|284055|284055|284055.0
+Paul Stanley, Vincent Cusano|283898|283898|283898.0
+Milton Nascimento, Ronaldo Bastos|307200|265665|283654.666666667
+Paul Di'Anno/Steve Harris|352731|199706|283559.0
+Charlie Midnight/Dan Hartman|282880|282880|282880.0
+I. Toure, S. Tidiane Toure, Carlos Santana & K. Perazzo|282827|282827|282827.0
+Baden Powell/Vinicius de Moraes|282200|282200|282200.0
+Da Gama/Lazao/Toni Garrido|282174|282174|282174.0
+Fausto Nilo - Armandinho|281730|281730|281730.0
+Billy Duffy/Bob Rock/Ian Astbury|300591|262817|281704.0
+Michael Jackson|281401|281401|281401.0
+Bruce Dickinson; Harris|280894|280894|280894.0
+Audioslave/Chris Cornell|343457|206053|280550.928571429
+Bono|279875|279875|279875.0
+John Bonham/John Paul Jones/Robert Plant|316081|242442|279261.5
+Chico Amaral/Edgard Scandurra/Samuel Rosa|278987|278987|278987.0
+Tony Iommi, Bill Ward, Geezer Butler, Ozzy Osbourne|494524|103157|278790.090909091
+Jeff Ament & Eddie Vedder|278595|278595|278595.0
+Brian Eno/U2|277760|277760|277760.0
+Jerry Cantrell, Michael Starr, Sean Kinney|277577|277577|277577.0
+Marisa Monte/Nando Reis|298396|256026|277211.0
+Mick Mars/Nikki Sixx|282618|268956|277184.666666667
+A. Jamal|276871|276871|276871.0
+Vandenberg|317074|251141|276185.75
+F. Olivera|276114|276114|276114.0
+Djavan|337423|211617|275909.083333333
+claude françois/gilles thibault/jacques revaux/paul anka|275879|275879|275879.0
+Jimmy Page, Robert Plant|481619|144875|275758.533333333
+Hawkins-Lewis-Broadwater|275565|275565|275565.0
+Steven Tyler, Joe Perry, Taylor Rhodes|309263|240718|274990.5
+Jimmy Page/John Paul Jones|274860|274860|274860.0
+Eric Clapton, Will Jennings|274729|274729|274729.0
+Giuseppe Verdi|274504|274504|274504.0
+The Tea Party|396303|169795|274156.791666667
+George Duke|274155|274155|274155.0
+Mike Dint, Billie Joe, Tré Cool|285753|260858|273305.5
+Dick Holler|273057|273057|273057.0
+Bernardo Vilhena/Da Gama/Lazao|273031|273031|273031.0
+Jay Beckenstein|338729|238759|272526.333333333
+Jay Hawkins|272091|272091|272091.0
+Dean Brown, Dennis Chambers & Jim Beard|272039|272039|272039.0
+Johann Pachelbel|271788|271788|271788.0
+Mick Hucknall and Fritz McIntyre|303934|239595|271764.5
+Antonio Carlos Jobim|271647|271647|271647.0
+Paul Stanley, Vincent Poncia, Desmond Child|271360|271360|271360.0
+Queen|387761|238994|271124.333333333
+Luiz Gonzaga/Zé Dantas|271020|271020|271020.0
+David Coverdale|439510|76303|271019.8
+Paul Stanley|369815|196257|270408.6
+Alcino Corrêa/Monarco|270393|270393|270393.0
+C. Cester|270341|270341|270341.0
+D.Coverdale/G.Hughes/Glenn Hughes/J.Lord/John Lord|270236|270236|270236.0
+Jon Hudson/Mike Bordin/Mike Patton|270106|270106|270106.0
+Mick Mars/Nikki Sixx/Tommy Lee|270288|269844|270066.0
+Mick Hucknall and Neil Moss|270053|270053|270053.0
+Chet Catallo|270027|270027|270027.0
+Adam Clayton, Bono, Larry Mullen, The Edge|330657|219271|269509.454545455
+Dudu Nobre/Zeca Pagodinho|269374|269374|269374.0
+Mick Mars/Nikki Sixx/Tommy Lee/Vince Neil|286197|254511|269174.0
+Adalto Magalha/Lourenco|269165|269165|269165.0
+Cornell, Commerford, Morello, Wilk|309786|233195|268686.416666667
+Renato Russo|543007|141453|268580.05
+John and William Valentine|268408|268408|268408.0
+Clapton|304744|221387|268231.25
+Adam Clayton, Bono, Larry Mullen & The Edge|347951|194612|268122.818181818
+Ralph Vaughan Williams|268066|268066|268066.0
+Bill Gould/Mike Bordin/Mike Patton|326217|209867|268042.0
+Ira Gershwin, Kurt Weill|268016|268016|268016.0
+Sully Erna; Tony Rombola|274834|260022|267428.0
+Jeremy Wall|291500|238315|267245.25
+Aaron Goldberg|266936|266936|266936.0
+ervin drake|266605|266605|266605.0
+Anthony Kiedis/Chad Smith/Flea/John Frusciante|496692|163787|266328.894736842
+Renato Russo - Marcelo Bonfá|266161|266161|266161.0
+Dave Abbruzzese & Jeff Ament & Stone Gossard & Mike McCready & Eddie Vedder|407484|161541|266117.666666667
+Bourge/Phillips/Shelley|341551|190406|265978.5
+Niccolò Paganini|265541|265541|265541.0
+Alanis Morissette & Glenn Ballard|491885|176117|265455.769230769
+Gil Evans|318328|212558|265443.0
+Dave Kushner, Duff, Matt Sorum, Scott Weiland & Slash|348786|221701|264935.583333333
+Steven Tyler, Joe Perry, Jim Vallance, Holly Knight|264698|264698|264698.0
+Dylan, Bob|264568|264568|264568.0
+Clapton/Dylan|264411|264411|264411.0
+Marley|263862|263862|263862.0
+Mike McCready|263235|263235|263235.0
+Donato/Gilberto Gil|263183|263183|263183.0
+Gilson Mendonça/Michel|262974|262974|262974.0
+Harris/Paul Di´Anno|328620|197276|262948.0
+W. Jean, J. Duplessis, Carlos Santana, K. Perazzo & R. Rekow|262635|262635|262635.0
+Arnaldo Antunes/Britto, SergioMiklos, Paulo|262191|262191|262191.0
+B. Cummings/G. Peterson/M.J. Kale/R. Bachman|261773|261773|261773.0
+Domenil/J. Brito/Joaozinho/Rap, Marcelo Do|261720|261720|261720.0
+R. Rhoads|261302|261302|261302.0
+O. Osbourne, R. Daisley, R. Rhoads, L. Kerslake|261224|261224|261224.0
+Eric Clapton|328724|193515|261119.5
+Manuca/Raimundinho DoAcordion/Targino Godim|261041|261041|261041.0
+Dominguinhos/Gilberto Gil|260963|260963|260963.0
+Chico Amaral/Samuel Rosa|298527|233665|260780.0
+Traditional|305005|219376|260753.75
+John Bonham, John Paul Jones, Jimmy Page|260728|260728|260728.0
+U2; Edge, The|260284|260284|260284.0
+Graham Harvey|259970|259970|259970.0
+Henry Kirssch/Lenny Kravitz/S. Pasch A. Krizan|259683|259683|259683.0
+Claudio Martins/David Lima/Kleber Rodrigues/Livre, Cesare Som|259657|259657|259657.0
+Dave Grohl, Taylor Hawkins, Nate Mendel, Chris Shiflett/FOO FIGHTERS|316264|193280|259635.8
+Galley|259395|259395|259395.0
+Chris Frantz/David Byrne/Jerry Harrison/Tina Weymouth|259186|259186|259186.0
+John Deacon|259108|259108|259108.0
+Brian May|297691|220316|259003.5
+Gabriel Fauré|258924|258924|258924.0
+Chris Cornell/Kim Thayil|362475|208822|258611.75
+Buddy Guy|433397|136803|258307.0
+Mick Hucknall|298083|237662|258302.142857143
+D.Coverdale/G.Hughes/Glenn Hughes/I.Paice/Ian Paice/J.Lord/John Lord/R.Blackmore/Ritchie Blackmore|267833|242886|258193.666666667
+Anthony Kiedis, Flea, John Frusciante, and Chad Smith|369110|193906|258121.9375
+Salaam Remi|315960|200253|258106.5
+Herbert Vianna/Paulo Sérgio Valle|258089|258089|258089.0
+Turner, Held, Greenwood|257724|257724|257724.0
+Da Gama/Lazão/Rás Bernardo|257619|257619|257619.0
+Jesse Ed Davis III/Taj Mahal|257488|257488|257488.0
+O. Osbourne|257252|257252|257252.0
+Nikki Sixx/Tommy Lee/Vince Neil|276767|236904|256835.5
+Nirvana|287190|211200|256635.333333333
+B. Guy|256365|256365|256365.0
+U2|351817|153965|256177.636363636
+Bill Berry-Peter Buck-Mike Mills-Michael Stipe|437968|154148|255805.2
+Bahiano/Chuck Rio/Diego Blanco/Herbert Vianna|255738|255738|255738.0
+G M Sumner|315454|181133|255635.714285714
+Hyldon|255477|255477|255477.0
+Billy Corgan|473391|161123|255243.64516129
+Chris Cornell|347898|204078|255063.608695652
+Cliff Burton|254955|254955|254955.0
+John Adams|254930|254930|254930.0
+Lenny Kravitz|342648|204199|254739.888888889
+John Paul Jones & Robert Plant|254406|254406|254406.0
+C. Cester/C. Muncey/N. Cester|272117|243278|254371.333333333
+Sergei Prokofiev|254001|254001|254001.0
+Edvard Grieg|253422|253422|253422.0
+Clapton/Robert Johnson Arr: Eric Clapton|253335|253335|253335.0
+John Dowland|253281|253281|253281.0
+Henry Purcell|364296|142081|253188.5
+Dado Villa-Lobos/Marcelo Bonfá|366445|148401|253083.625
+Murray  Dave|252708|252708|252708.0
+Bruce Dickinson/Steve Harris|275408|229459|252479.5
+F. Baltes, R.A. Smith-Diesel, S. Kaufman, U. Dirkscneider & W. Hoffman|252051|252051|252051.0
+McKinley Morgenfield (Muddy Waters)|251768|251768|251768.0
+L. Kilmister, O. Osbourne & Z. Wylde|251586|251586|251586.0
+R. Carless|251585|251585|251585.0
+David Murray/Paul Di'Anno/Steve Harris|317335|196284|251428.25
+Milton Nascimento, Márcio Borges|251297|251297|251297.0
+B. Carter/C. Layton/R. Ellsworth/R. Wynans/T. Shannon|251219|251219|251219.0
+Erasmo Carlos/Roberto Carlos|251115|251115|251115.0
+Jay Kay/Toby Smith|284447|221544|251109.4
+Steven Tyler, Joe Perry, Jim Vallance|251036|251036|251036.0
+Marsden/Moody|250801|250801|250801.0
+Deanna Brown/Deidra Jenkins/Yamma Brown|250723|250723|250723.0
+Adrian Smith; Bruce Dickinson; Steve Harris|273998|211043|250688.0
+Robby Krieger, Ray Manzarek, John Densmore, Jim Morrison|701831|137168|250586.333333333
+Bino Farias/Da Gama/Lazão/Pedro Luis/Toni Garrido|249808|249808|249808.0
+Leão, Rodrigo F./Samuel Rosa|249600|249600|249600.0
+Freddie Mercury|249417|249417|249417.0
+Waters|391888|125361|249268.333333333
+Brian Eno, Bono, Adam Clayton, The Edge & Larry Mullen Jnr.|383764|120816|249263.714285714
+Marvin Gaye|314514|218540|249194.75
+Freddie Mercury & John Deacon|248920|248920|248920.0
+Paul Stanley, Vincent Poncia|254354|242468|248411.0
+Vários|389642|157988|248321.117647059
+Jerry Cantrell|349831|152084|247836.0
+Kelly, Mosley, Rothery, Trewaves|569704|112875|247737.0
+Jagger/Richards|479242|49737|247633.657142857
+Marcos Valle|247614|247614|247614.0
+The Clash|324336|187219|247293.285714286
+Luca Gusella|246503|246503|246503.0
+Duff McKagan|246491|246491|246491.0
+Jimmy Page, Robert Plant, John Bonham|246047|246047|246047.0
+Macelo Yuka/O Rappa|245524|245524|245524.0
+Nei Lopes/Wilson Moreira|245394|245394|245394.0
+D. DeLeo/R. DeLeo/Weiland|245368|245368|245368.0
+Anonymous|245317|245317|245317.0
+James Brown/Tim Maia|244976|244976|244976.0
+Samuel Rosa|318406|1071|244942.636363636
+Ace Frehley|262243|227291|244767.0
+Billy Duffy/Ian Astbury|308009|209789|244412.666666667
+Acyr Marques/Arlindo Cruz/Franco|243591|243591|243591.0
+Pietro Mascagni|243436|243436|243436.0
+Clarke/Kilmister/Tayler|292127|192052|243104.0
+Bruce/Clapton|301583|174576|243016.666666667
+Jeff Ament & Stone Gossard & Jack Irons & Mike McCready & Eddie Vedder|242991|242991|242991.0
+Kevin Robinson/Richard Bull|242390|242390|242390.0
+Bill Gould/Mike Patton|251663|232698|242180.5
+Gilberto Gil|324780|32287|241849.086956522
+Da Gama/Toni Garrido|285231|207542|241231.666666667
+Dave Grohl, Taylor Hawkins, Nate Mendel, Chris Shiflett|352078|117080|240929.5
+Bill Berry/Michael Stipe/Mike Mills/Peter Buck|296777|199862|240919.727272727
+Beto Gogo/Jessé Pai/Luiz Carlos/Zeca Pagodinho|240692|240692|240692.0
+Giovanni Pierluigi da Palestrina|240666|240666|240666.0
+Fausto Fawcett/Samuel Rosa|240613|240613|240613.0
+Carolyn Franklin and Sonny Saunders|240561|240561|240561.0
+Mark Ronson|240320|240320|240320.0
+Bino/Da Gamma/Lazao/Toni Garrido|240300|240300|240300.0
+Angus Young, Malcolm Young, Brian Johnson|343719|199836|240041.5
+Jeff Ament/Stone Gossard|299154|162194|239890.666666667
+Cidade Negra|239725|239725|239725.0
+Brad Shapiro/George Jackson/Robert Miller/Walter Shaw|239072|239072|239072.0
+Nikki Sixx|283559|200829|239067.0
+Jay Kay/Kay, Jay|247222|230635|238928.5
+Franz Schubert|338243|139200|238721.5
+Chico Amaral/Lelo Zanettik|238628|238628|238628.0
+Wagner Tiso, Milton Nascimento|238550|238550|238550.0
+Genival Cassiano|238367|238367|238367.0
+Dave Kushner, Duff, Keith Nelson, Matt Sorum, Scott Weiland & Slash|237844|237844|237844.0
+Dave Grohl|303856|157387|237330.666666667
+Bill Gould/Jon Hudson/Mike Bordin/Mike Patton/Roddy Bottum|257253|217391|237322.0
+Willie Dixon|380551|135053|237181.75
+Alexandre Brazil/Pedro Luis/Rodrigo Cabelo|237087|237087|237087.0
+Dado Villa-Lobos/Ico Ouro-Preto/Marcelo Bonfá|236826|236826|236826.0
+Queen & David Bowie|236617|236617|236617.0
+Bernardo Vilhena/Bino Farias/Da Gama/Lazão/Toni Garrido|236382|236382|236382.0
+Stone Gossard|341080|53733|235790.5
+Bolin/Coverdale/Paice|235781|235781|235781.0
+Al Perkins/Willie Dixon|235311|235311|235311.0
+Mick Hucknall and Lamont Dozier|235232|235232|235232.0
+A. F. Iommi, W. Ward, T. Butler, J. Osbourne|357067|172120|235179.666666667
+Igor Stravinsky|234746|234746|234746.0
+Mason/Waters, Gilmour, Wright|234213|234213|234213.0
+Marsden|233874|233874|233874.0
+L. Delibes|233534|233534|233534.0
+Eddie Vedder|343222|148192|233357.75
+Ian Stewart/John Bonham/John Paul Jones/Mrs. Valens/Robert Plant|233273|233273|233273.0
+Albert King|233064|233064|233064.0
+Nando Reis|276035|176326|232994.333333333
+Jimmy and Vella Cameron|232594|232594|232594.0
+Lenny Kravitz/Slash|232515|232515|232515.0
+Di´Anno/Harris|232515|232515|232515.0
+Gene Simmons, S. Coronel|248346|216215|232280.5
+Jimmy Cox|231836|231836|231836.0
+Clapton/Levy|231732|231732|231732.0
+Fito Paez/Herbert Vianna|231653|231653|231653.0
+Dave Abbruzzese/Eddie Vedder/Jeff Ament/Mike McCready/Stone Gossard|359262|169325|231472.833333333
+Doyle Bramhall/Stevie Ray Vaughan|336927|144352|231464.0
+Bolin/Coverdale|263836|188160|231438.0
+Bernardo Vilhena/Da Gama/Lazão|231392|231392|231392.0
+Deacon|275356|186958|231157.0
+Sully Erna|260884|89547|231128.2
+N. Cester|230974|230974|230974.0
+Jorge Cardoso/Pierre Onasis|230791|230791|230791.0
+F. Baltes, S. Kaufman, U. Dirkscneider & W. Hoffman|230619|230619|230619.0
+Steven Tyler, Jim Vallance|244375|215875|230125.0
+Eddie Vedder/Jeff Ament/Matt Cameron/Mike McCready/Stone Gossard|230112|230112|230112.0
+D. DeLeo/Kretz/R. DeLeo/Weiland|229720|229720|229720.0
+Toninho Horta|229564|229564|229564.0
+C. Cester/N. Cester|282174|176274|228943.25
+Bill Gould/Jon Hudson/Mike Bordin/Mike Patton|228493|228493|228493.0
+Adrian Smith/Clive Burr/Steve Harris|228440|228440|228440.0
+Giacomo Puccini|277639|176911|227275.0
+Jimmy Page/John Bonham/John Paul Jones|508055|150230|227251.833333333
+Edward Van Halen, Alex Van Halen, David Lee Roth|241711|211853|226782.0
+Gonzaga Jr.|249678|202213|226446.333333333
+Jeff Ament|318981|178573|226369.285714286
+Jorge Aragão/Zeca Pagodinho|225985|225985|225985.0
+Ivy Jo Hunter/Marvin Gaye/William Stevenson|225985|225985|225985.0
+Harry Lawes/Winston Foster-Vers|225488|225488|225488.0
+Eddie Vedder & Stone Gossard|225462|225462|225462.0
+Bino Farias/Da Gama/Lazão/Rás Bernardo|225332|225332|225332.0
+Lulu Santos|267363|183066|225214.5
+J.r.Bertami/Parana|225097|225097|225097.0
+J.C. Fogerty|385619|131918|224990.9
+Bino Farias/Da Gama/Lazão/Toni Garrido|248842|195239|224476.25
+Eugene McDaniel|224339|224339|224339.0
+Arnaldo Anutnes/Branco Mello/Marcelo Fromer/Sergio Brotto/Toni Bellotto|224261|224261|224261.0
+Red Hot Chili Peppers|321671|112613|224195.333333333
+Marco Tulio Lara/Rogerio Flausino|224078|224078|224078.0
+Stone Gossard & Eddie Vedder & Jeff Ament & Mike McCready|223764|223764|223764.0
+Gustav Mahler|223583|223583|223583.0
+Ivy Hunter/William "Mickey" Stevenson|223451|223451|223451.0
+R.E.M.|272352|172016|223150.4375
+Arnaldo Baptista - Rita Lee - Arnolpho Lima Filho|222955|222955|222955.0
+Bino Farias/Da Gama/Henry Lawes/Lazão/Toni Garrido/Winston Foser-Vers|222145|222145|222145.0
+B. de Filippi - F. Migliaci - Versão: Fred Jorge|221831|221831|221831.0
+Arnaldo Antunes|221831|221831|221831.0
+Molaney/Morris/Roberts/Wainwright|287973|155428|221700.5
+May|386194|122671|221603.0
+Paul O'duffy|221413|221413|221413.0
+Mônica Marianno|274625|39131|220475.166666667
+Matt Cameron|270863|158589|220446.666666667
+Clarke/Farren/Kilmister/Tayler|220212|220212|220212.0
+Bruce Dickinson/David Murray|254197|188786|220142.0
+Dolores Duran|220081|220081|220081.0
+Paul Stanley, Gene Simmons, B. Ezrin|219742|219742|219742.0
+Herbert Vianna/Tetê Tillet|219585|219585|219585.0
+Paulinho Rezende/Toninho Geraes|219454|219454|219454.0
+E. Schrody/J. Vasquez/L. Dimant|219402|219402|219402.0
+João Suplicy|284107|118804|218980.214285714
+Paul Stanley, B. Ezrin|218880|218880|218880.0
+Bino/Da Gama/Ras Bernardo|244950|192391|218670.5
+Caetano Veloso|482429|84088|218461.6
+Addie William Jones/Nat Jones|218226|218226|218226.0
+Bolin/Hughes|218044|218044|218044.0
+Gene Simmons, Stephen Coronel|217652|217652|217652.0
+Carlinhos Brown/Herbert Vianna|217573|217573|217573.0
+Almir Guineto/Dedé Paraiso/Luverci Ernesto|217495|217495|217495.0
+Jones/Sirotto/Smith|216685|216685|216685.0
+Cale/Clapton|215928|215928|215928.0
+Fred Wesley/James Brown/Joseph Mims|215902|215902|215902.0
+Beto Guedes, Ronaldo Bastos|215353|215353|215353.0
+Paul Stanley, B. Ezrin, K. Fowley|214987|214987|214987.0
+Dave Brubeck|214961|214961|214961.0
+Milton Nascimento, Fernando Brant|286249|72463|214769.555555556
+Keith Richards/Mick Jagger|214752|214752|214752.0
+Gilmour, Waters|214595|214595|214595.0
+Willie Dixon, C. Burnett|214360|214360|214360.0
+May, Brian|255346|168489|214340.5
+Do Vale, Valverde/Gal Oliveira/Luciano Pinto|214256|214256|214256.0
+Mercury, Freddie|358948|164231|213910.9
+D.Coverdale/R.Blackmore/Ritchie Blackmore|246413|193750|213881.666666667
+Alba Carvalho/Fernando Porto|213655|213655|213655.0
+Mike Bordin, Billy Gould, Mike Patton|336666|137482|213634.1
+Charles Gavin/Marcelo Fromer/Sérgio Britto|213289|213289|213289.0
+South|213054|213054|213054.0
+Jimi Hendrix|404453|153077|212987.3125
+Jorge Ben|248398|177397|212897.5
+Pete Townshend|338520|125152|212859.230769231
+Jimmy Forrest/Lewis C. Simpkins/Oscar Washington|212401|212401|212401.0
+Daniel Lanois|212062|212062|212062.0
+Craig Ross/Lenny Kravitz|211591|211591|211591.0
+Fausto Nilo/Moraes Moreira/Pepeu Gomes|211147|211147|211147.0
+Humberto Teixeira/Luiz Gonzaga|222275|199653|210918.5
+Cal Adan/Ferrugem/Julinho Carioca/Tríona Ní Dhomhnaill|210599|210599|210599.0
+Dave, Taylor, Nate, Chris|342230|83487|210329.8
+Billy Roberts|210259|210259|210259.0
+Tankian, Serj|320783|128339|210169.428571429
+Garay, Ricardo Engels/Luca Predabom/Ludwig, Carlos Henrique/Maurício Vieira|210155|210155|210155.0
+Miles Davis, Gil Evans|209893|209893|209893.0
+Milton Nascimento|209737|209737|209737.0
+Delroy "Chris" Cooper, Donovan Jackson, Earl Chinna Smith, Felix Howard, Gordon Williams, Luke Smith, Paul Watson & Wilburn Squiddley Cole|209573|209573|209573.0
+Caetano Veloso e Gilberto Gil|291866|129410|209546.636363636
+Folclore|209397|209397|209397.0
+J. Satriani|337570|102630|209215.5
+Herbert Vianna|262870|176431|209182.631578947
+C. Muncey/N. Cester|270497|142889|209092.0
+Ciro Pressoa/Marcelo Fromer|209084|209084|209084.0
+Sérgio Britto/Toni Bellotto|208613|208613|208613.0
+Paul Stanley, Gene Simmons|259631|173609|208578.666666667
+Clapton/Trad. Arr. Clapton|208143|208143|208143.0
+C. A./C.A./Celso Alvim/Herbert Vianna/Mário Moura/Pedro Luís/Sidon Silva|208013|208013|208013.0
+Gonzaguinha|207072|207072|207072.0
+Murilão|206994|206994|206994.0
+A.Isbell/A.Jones/O.Redding|206994|206994|206994.0
+Charles Bobbitt/James Brown|217730|196231|206980.5
+Bernardo Vilhena/Bino/Da Gama/Lazao/Toni Garrido|206942|206942|206942.0
+Mercury|231235|182883|206863.0
+Cub Coda/Michael Lutz|206837|206837|206837.0
+Fábio Nolasco/Gal Sales/Ivan Brasil|206733|206733|206733.0
+Cal Adan/Del Rey, Tension/Edu Casanova|206654|206654|206654.0
+Kenny Gamble and Leon Huff|206524|206524|206524.0
+Philip Glass|206005|206005|206005.0
+fred ebb/john kander|206001|206001|206001.0
+Darius "Take One" Minwalla/Jon Auer/Ken Stringfellow/Matt Harris|212044|199923|205983.5
+Gilmour, Mason, Wright, Waters|205740|205740|205740.0
+Arnaldo Baptista - Rita Lee|241057|170422|205739.5
+Beto Guedes, Márcio Borges|205688|205688|205688.0
+Cassiano Costa/Cintia Maviane/J.F./Lucas Costa|205479|205479|205479.0
+Matt Rowe & Stefan Skarbek|204846|204846|204846.0
+Harris/Di Anno|204617|204617|204617.0
+Johann Sebastian Bach|307244|120463|204317.714285714
+Jon Hudson/Mike Patton|204303|204303|204303.0
+rod mckuen|203964|203964|203964.0
+D.Coverdale/G.Hughes/Glenn Hughes/R.Blackmore/Ritchie Blackmore|203755|203755|203755.0
+Arnaldo Anutnes/Marcelo Fromer/Paulo Miklos|203702|203702|203702.0
+Billie Joe Armstrong, Mike Dirnt, Tré Cool|232724|174419|203571.5
+Jauperi/Zeu Góes|203493|203493|203493.0
+Jesse Fuller|203363|203363|203363.0
+Buzz Cason/Mac Gayden|202631|202631|202631.0
+cole porter|210808|194429|202618.5
+J. Carisi|207725|196388|202056.5
+Joe Strummer/Mick Jones|272431|118726|201906.0
+C. Burnett|201586|201586|201586.0
+Gene Simmons|226377|146494|201575.285714286
+E. Schrody/R. Medrano|239908|163030|201469.0
+Dudu Nobre|200698|200698|200698.0
+Corumbá/José Gumarães/Venancio|200437|200437|200437.0
+John Brim|200306|200306|200306.0
+Weill-Brecht|200097|200097|200097.0
+E. Schrody/L. Muggerud|238393|114520|199460.0
+Luke Smith|199160|199160|199160.0
+Antonio Vivaldi|199086|199086|199086.0
+henry mancini/johnny mercer|198922|198922|198922.0
+Herbert Vianna/Tet Tillett|198922|198922|198922.0
+Augusto Conceição/Chiclete Com Banana|198661|198661|198661.0
+Sérgio Britto|207830|189440|198635.0
+Aaron Copland|198064|198064|198064.0
+Lô Borges, Fernando Brant|197694|197694|197694.0
+Jimmy Page & Robert Plant|197198|197198|197198.0
+Edward Van Halen, Alex Van Halen, Michael Anthony and David Lee Roth|230060|102556|197168.666666667
+Green Day|252316|120528|196742.571428571
+Lucina/Luli|196519|196519|196519.0
+Big Bill Broonzy|196466|196466|196466.0
+Billy/Del James/W. Axl Rose/West Arkeen|196205|196205|196205.0
+Taylor|207386|184737|196061.5
+Titãs|322612|34168|196010.590909091
+Arnaldo Antunes/Charles Gavin/Marcelo Fromer/Sérgio Britto/Toni Bellotto|195840|195840|195840.0
+Rita Lee - Arnaldo Baptista - Sérgio Baptista|195186|195186|195186.0
+Smokey Robinson/Warren "Pete" Moore|194821|194821|194821.0
+Al Cleveland/Marvin Gaye/Renaldo Benson|194821|194821|194821.0
+Deacon, John|216946|172225|194585.5
+Kretz/R. DeLeo/Weiland|194403|194403|194403.0
+Cal Adan/Paulo Levi|194194|194194|194194.0
+Carlinhos Brown|230008|136254|194045.666666667
+antonio carlos jobim/norman gimbel/vinicius de moraes|193750|193750|193750.0
+Barrett Strong/Norman Whitfield|210886|176404|193645.0
+Paul Stanley, Bob Ezrin, Kim Fowley|193619|193619|193619.0
+Kurt Cobain|301296|52218|193482.346153846
+alan bergman/marilyn bergman/peggy lipton jones/quincy jones|193175|193175|193175.0
+James Iha|192940|192940|192940.0
+Edward Van Halen, Alex Van Halen, David Lee Roth, Michael Anthony|228336|102164|192548.0
+H. Spina, J. Elliott|192078|191320|191699.0
+Guio De Morais E Seus "Parentes"/Luiz Gonzaga|191660|191660|191660.0
+Clapton/J. J. Cale|191320|191320|191320.0
+Peninha|190589|190589|190589.0
+Gerry DeVeaux/Terry Britten|190354|190354|190354.0
+Stevie Nicks|190275|190275|190275.0
+Luiz Wanderley/Paulo Levi|190093|190093|190093.0
+Greg Macainsh|189936|189936|189936.0
+Arnaldo Baptista/Rita Lee/Sérgio Dias|189257|189257|189257.0
+Dado Villa-Lobos|189231|189231|189231.0
+Culmer/Exalt|189152|189152|189152.0
+Richard Wagner|189008|189008|189008.0
+Ben Shepherd/Chris Cornell|188786|188786|188786.0
+Paulo Levi/W. Rangel|188630|188630|188630.0
+James Hetfield|188395|188395|188395.0
+Fred Wesley/James Brown|188212|188212|188212.0
+Gilberto Gil - Caetano Veloso|187794|187794|187794.0
+Lennon, John/McCartney, Paul|187350|187350|187350.0
+dean kay thompson/kelly gordon|187010|187010|187010.0
+Paul Stanley, Ace Frehley|200594|172068|186331.0
+Nickolas Ashford & Valerie Simpson|185293|185293|185293.0
+Mauro Diniz/Ratino Sigem|185208|185208|185208.0
+James Brown|260728|127399|185173.0
+Matt Cameron & Mike McCready|184398|184398|184398.0
+Luiz Melodia/Ricardo Augusto|184320|184320|184320.0
+Chico Science|284264|33149|184294.608695652
+lorenz hart/richard rodgers|184111|184111|184111.0
+Tim Maia|237897|105064|183939.333333333
+Sweet Savage|183693|183693|183693.0
+Clarke/Kilmister/Taylor|258403|98115|183471.538461538
+Jimmy Page/John Bonham/John Estes/John Paul Jones/Robert Plant|183327|183327|183327.0
+Toni Bellotto|183092|183092|183092.0
+U2 & Daragh O'Toole|183066|183066|183066.0
+E. Schrody/L. Dimant|237035|69120|182891.666666667
+Beto Guedes/Fernando Brant/L Borges|182517|182517|182517.0
+Robert Geddins/Ron Badger/Sheldon Feinberg|182491|182491|182491.0
+E. Schrody/L. Freese/L. Muggerud|182230|182230|182230.0
+Chico Buarque|181812|181812|181812.0
+Gonzaga Jr|181577|181577|181577.0
+Bombom/Ed Motta|180636|180636|180636.0
+Dufort/Johnson/McAuliffe/Williams|180427|180427|180427.0
+Clapton/F.eldman/Linn|180401|180401|180401.0
+Chuck Berry|254615|141923|180122.666666667
+Alcides Dias Lopes|180035|180035|180035.0
+Jerry Ragavoy|179983|179983|179983.0
+Danzig|209972|149315|179643.5
+Jorge Vercilo/Jota Maranhao|179408|179408|179408.0
+Bino/Da Gama/Toni Garrido|178155|178155|178155.0
+Paul Stanley, Gene Simmons, Bob Ezrin, Lewis Reed|177815|177815|177815.0
+Blaze Bayley/Steve Harris|175777|175777|175777.0
+Dolmayan, John/Malakian, Daron/Odadjian, Shavo|249312|63764|175366.0
+hans bradtke/heinz meier/johnny mercer|174994|174994|174994.0
+Bill Dees/Roy Orbison|174680|174680|174680.0
+Rodolfo|293276|121652|173847.0
+Billie Joe Armstrong -Words Green Day -Music|234083|90331|173725.6
+carolyn leigh/cy coleman|173583|173583|173583.0
+Bino Farias/Da Gamma/Lazão/Rás Bernard|173008|173008|173008.0
+Luciana Souza|172710|172710|172710.0
+Ray Davies|186723|158589|172656.0
+Barrett Strong/Norman Whitfield/Roger Penzabene|172486|172486|172486.0
+Robert Johnson|226429|71941|171632.666666667
+orlando murden/ronald miller|171154|171154|171154.0
+Mike Dirnt -Words Green Day -Music|170997|170997|170997.0
+Branco Mello/Carlos Barmack/Ciro Pessoa/Marcelo Fromer/Toni Belloto|170684|170684|170684.0
+E. Schrody/L. Muggerud/R. Medrano|170475|170475|170475.0
+E. Schrody/L. Dimant/L. Muggerud|170213|170213|170213.0
+Peter Criss, Stan Penridge, Bob Ezrin|170187|170187|170187.0
+Heath/Robinson|169926|169926|169926.0
+jim croce|169900|169900|169900.0
+Alfred Ellis/James Brown|172408|167392|169900.0
+Gonzaga Jr/Gonzaguinha|169717|169717|169717.0
+J. C. Fogerty|239360|129358|169067.117647059
+R. Troup, L. Worth|168594|168594|168594.0
+Ratinho/Zeca Pagodinho|168463|168463|168463.0
+Betty Newsome/James Brown|168228|168228|168228.0
+Cook/Coverdale|168202|168202|168202.0
+Isham Jones & Marty Symes|167933|167933|167933.0
+Clapton/Collins/Pappalardi|167810|167810|167810.0
+S. Penridge, Bob Ezrin, Peter Criss|166974|166974|166974.0
+Lowman Pauling|166739|166739|166739.0
+Adriano Bernandes/Edmar Neves|166687|166687|166687.0
+Richard Poindexter & Robert Poindexter|166680|166680|166680.0
+Ivy Hunter/Stevie Wonder|166295|166295|166295.0
+Sonny Boy Williamson [I]|166060|166060|166060.0
+Jack Yellen/Milton Ager|165146|165146|165146.0
+James Brown/Johnny Terry|165067|165067|165067.0
+Jagger/Richards/Oldham|164284|164284|164284.0
+Clapton/Harrison|163552|163552|163552.0
+Chico Science/Dengue/Lúcio Maia|162925|162925|162925.0
+William "Mickey" Stevenson|161410|161410|161410.0
+Pete Townshend, Roger Daltrey|161253|161253|161253.0
+george gershwin/ira gershwin|161227|161227|161227.0
+Bert Russell/Phil Medley|161123|161123|161123.0
+Bahiano/Diego Blanco/Herbert Vianna|159895|159895|159895.0
+Sonny Curtis|159764|159764|159764.0
+carson c. parks|158615|158615|158615.0
+Aldir Blanc/Jayme Vignoli|158484|158484|158484.0
+Ben E.King/James Bethea|157570|157570|157570.0
+Buchanan, Wallis|157100|157100|157100.0
+Carl Orff|156710|156710|156710.0
+Mick Jones/Traditional arr. Joe Strummer|156708|156708|156708.0
+Antonio Lopes|156656|156656|156656.0
+jimmy van heusen/sammy cahn|190458|89730|156229.0
+berthold kaempfert/charles singleton/eddie snyder|155794|155794|155794.0
+Alex Van Halen/David Lee Roth/Edward Van Halen/Michael Anthony|228806|42240|153200.285714286
+Grazielle/Roque Ferreira|152816|152816|152816.0
+Robert Rogers/Warren "Pete" Moore/William "Mickey" Stevenson|152424|152424|152424.0
+carl sigman/gilbert becaud/pierre leroyer|149995|149995|149995.0
+John Entwistle|149472|149472|149472.0
+bart howard|149263|149263|149263.0
+Tom Jobim - Newton Mendoça|148793|148793|148793.0
+Bi Ribeiro/Herbert Vianna/João Barone|148558|148558|148558.0
+Berry Gordy, Jr./Janie Bradford|147591|147591|147591.0
+Os Mutantes - Arnolpho Lima Filho|146938|146938|146938.0
+Antonio Carlos Jobim/Vinicius de Moraes|146677|146677|146677.0
+Morais|145606|145606|145606.0
+Milton Nascimento, Caetano Veloso|152293|135732|144012.5
+Ted Wright|143725|143725|143725.0
+Bo Diddley|143595|143595|143595.0
+Allen Story/George Gordy/Robert Gordy|142027|142027|142027.0
+Luiz Carlos/Oberdan|141008|141008|141008.0
+Augusto Garcez/Nelson Cavaquinho|140930|140930|140930.0
+Eurreal Montgomery|140434|140434|140434.0
+Eddie Cochran/Jerry Capehart|140199|140199|140199.0
+Mike McCready & Stone Gossard|139990|139990|139990.0
+Larry Williams|163265|116088|139676.5
+Deacon/May/Mercury/Taylor|137717|137717|137717.0
+Brian Holland/Freddie Gorman/Georgia Dobbins/Robert Bateman/William Garrett|137639|137639|137639.0
+Brian Holland/Eddie Holland/Lamont Dozier|137221|137221|137221.0
+J.J. Johnson|134191|134191|134191.0
+William Byrd|133768|133768|133768.0
+Nelson Angelo|133093|133093|133093.0
+Georges Bizet|132932|132932|132932.0
+Nanker Phelge|132022|132022|132022.0
+Do Vale, João/Luiz Wanderley|131317|131317|131317.0
+Don Van Vliet|171284|88894|130089.0
+Mike Patton|140852|119040|129549.666666667
+Bob Cochran/Sharon Sheeley|127869|127869|127869.0
+Genival Cassiano/Silvio Rochael|126615|126615|126615.0
+Caetano Veloso - Gilberto Gil|125152|125152|125152.0
+Deacon, John/May, Brian|122880|122880|122880.0
+Carlos Imperial/Edardo Araújo|115461|115461|115461.0
+C. Cester/C. Muncey|112352|112352|112352.0
+Marc-Antoine Charpentier|110266|110266|110266.0
+Ned Fairchild|107807|107807|107807.0
+Arlindo Cruz/Franco/Marquinhos PQD/Negro, Jovelina Pérolo/Zeca Pagodinho|107206|107206|107206.0
+Enotris Johnson/Little Richard/Robert "Bumps" Blackwell|106396|106396|106396.0
+Little Richard|106266|106266|106266.0
+Tradicional|99369|99369|99369.0
+Pearl Jam|122801|65593|94197.0
+Carlos Imperial/Tim Maia|90148|90148|90148.0
+Dean Deleo|80613|80613|80613.0
+Thomas Tallis|69194|69194|69194.0
+Claudio Monteverdi|66639|66639|66639.0
+Dale Evans|65488|65488|65488.0
+Marisa Monte/poema de Octavio Paz/versão: Haroldo de Campos|45191|45191|45191.0
+Hendrix, Jimi|43232|43232|43232.0
+Mabins, Macie/Magee, Sterling/Robinson, Bobby|38164|38164|38164.0
+L. Muggerud|21211|7941|14576.0

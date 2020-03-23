@@ -1,0 +1,7 @@
+CREATE TABLE producers(producerId INTEGER, name text);
+INSERT INTO producers VALUES(1,'Joe Meek');
+INSERT INTO producers VALUES(2,'George Martin');
+INSERT INTO producers VALUES(3,'Quincy Jones');
+INSERT INTO producers VALUES(4,'Nile Rodgers');
+INSERT INTO producers VALUES(5,'Phil Spector');
+Select * From producers;

@@ -1,0 +1,3 @@
+Select * From tracks where composer is NULL;
+
+Select Avg(Bytes) From tracks;

@@ -1,0 +1,5 @@
+producerId|name
+1|Joe Meek
+2|George Martin
+3|Quincy Jones
+5|Phil Spector

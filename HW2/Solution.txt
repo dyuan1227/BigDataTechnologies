@@ -1,0 +1,38 @@
+The URL of my GitHub is: https://github.coecis.cornell.edu/dy334/ORIE5270
+
+Packages for problem 2 include pandas, numpy, and matplotlib.
+For running problem2, one can simply type python p2.py in the terminal. The output for people and their corresponding number of friends will show up in the terminal. The histogram plot will pop up in a pdf file. In the output2.txt file, there is average and variance for NbrFriends.
+
+Packages for problem 3 include keras, tensorflow, matplotlib, and numpy.
+For running problem 3, one can simply type python p3.py in the terminal. There will be three plots popping up. One needs to close the popping window in order to let the program keep running.
+
+The plot problem3_model_1       corresponds to part (2)
+The plot problem3_model_batch   corresponds to part (3)
+The plot problem3_model_dropout corresponds to part (4)
+
+The plot (2) and (4) are similar with training loss drops sharply on the second epoch and val loss not changing very much. The plot (3) has decreasing training loss, but the val loss first decreases, and then increases. This indicates overfitting when the epoch increases. In comparison, the loss of (2) and (4) don't change very much while epoch increases.
+
+The batch normalization layer makes training faster, but the dropout layer doesn't make a lot of changes on the training.
+
+Here is a summary of the first model:
+
+_________________________________________________________________
+Layer (type)                 Output Shape              Param #   
+=================================================================
+conv2d_1 (Conv2D)            (None, 28, 28, 32)        2432      
+_________________________________________________________________
+max_pooling2d_1 (MaxPooling2 (None, 14, 14, 32)        0         
+_________________________________________________________________
+conv2d_2 (Conv2D)            (None, 10, 10, 64)        51264     
+_________________________________________________________________
+flatten_1 (Flatten)          (None, 6400)              0         
+_________________________________________________________________
+dense_1 (Dense)              (None, 1000)              6401000   
+_________________________________________________________________
+dense_2 (Dense)              (None, 10)                10010     
+=================================================================
+Total params: 6,464,706
+Trainable params: 6,464,706
+Non-trainable params: 0
+_________________________________________________________________
+None

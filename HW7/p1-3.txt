@@ -1,0 +1,4 @@
+Select City, Count(*) as cnt 
+From customers 
+Group By City 
+Having cnt>1;

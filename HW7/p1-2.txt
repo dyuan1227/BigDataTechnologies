@@ -1,0 +1,2 @@
+DELETE FROM producers WHERE name='Nile Rodgers';
+Select * From producers;

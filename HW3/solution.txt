@@ -1,0 +1,10 @@
+There are three python files in this homework. To run each file, simply run
+python p1.py
+python p2.py
+python p3.py
+
+The first python file will generate a pdf file of the running time. We can see that the two graphs look close. The algorithm graph of my program is better than O(nlogn).
+
+The second python file will import the function from the first file.
+
+Both the second and third python file take care of the insensitive cases. 

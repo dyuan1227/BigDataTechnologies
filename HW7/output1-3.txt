@@ -1,0 +1,7 @@
+City|cnt
+Berlin|2
+London|2
+Mountain View|2
+Paris|2
+Prague|2
+São Paulo|2

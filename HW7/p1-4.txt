@@ -1,0 +1,5 @@
+Select Composer, Max(Milliseconds) as Max ,Min(Milliseconds) as Min, Avg(Milliseconds) as Average
+From tracks
+Group by Composer
+order by Average DESC;
+
